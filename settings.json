@@ -1,0 +1,24 @@
+// VSCode Settings
+{
+	"editor.tabSize": 2,
+	"editor.fontSize": 12,
+	"editor.fontFamily": "Inconsolata, Consolas, 'Courier New, monospace",
+	"editor.renderWhitespce": "boundary",
+	"editor.wordWrap": "on",
+	"editor.rulers":[80],
+	"editor.suggestSelection": "first",
+	"editor.scrollBeyondLastLine": false,
+	"files.autoGuessEncoding": true,
+	"files.autoSave": "afterDelay",
+	"files.defaultLanguage": "markdown",
+	"files.trimFinalNewlines": true,
+	// "files.trimTrailingWhitespace": true,
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"workbench.iconTheme": "vscode-icons",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+}
